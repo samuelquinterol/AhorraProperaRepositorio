@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ahorra y Prospera — V7 TODO DE UNA
 
 Proyecto web de educación y gestión financiera personal desarrollado con HTML, CSS y JavaScript.
@@ -28,3 +29,6 @@ Los datos personales de prueba se almacenan únicamente en el navegador mediante
 
 ## Nota
 Los simuladores y recomendaciones son educativos y no constituyen asesoría financiera.
+=======
+# AhorraProperaRepositorio
+>>>>>>> a867c122365343eff6531af78b7bf7b6469a24f1
